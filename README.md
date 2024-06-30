@@ -1,5 +1,5 @@
 #UPDATE
--> I have done these assignments: Fix Removed delete button from user view
+-> I have done these assignments: <pre>Fix Removed delete button from user view
                                   Fix Removed Last Name & Phone Number Field from add user
                                   Fix Removed Address Field From edit user
                                   Fix Removed Edited Button From Mission View
